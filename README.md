@@ -17,7 +17,7 @@ JDBCAppendTableSink sink = jdbc.build();
 table.writeToSink(sink);
 ```
 
-Source: https://issues.apache.org/jira/browse/FLINK-8356?jql=project%20%3D%20FLINK%20AND%20text%20~%20hbase%20and%20text%20~%20sink
+Source: https://issues.apache.org/jira/browse/FLINK-8356
 
 ### Query from hive (not all reporting tools support phoenix)
 
