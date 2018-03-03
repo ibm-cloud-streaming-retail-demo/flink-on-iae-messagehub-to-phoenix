@@ -22,3 +22,7 @@ Source: https://issues.apache.org/jira/browse/FLINK-8356?jql=project%20%3D%20FLI
 ### Query from hive (not all reporting tools support phoenix)
 
 https://hortonworks.com/blog/hbase-hive-better-together/
+
+### Export to COS for access by other wdp tools
+
+Refinery Hive connector?  IAE Spark job? 
